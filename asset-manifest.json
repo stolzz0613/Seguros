@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Seguros/static/css/main.2d9bad60.chunk.css",
-    "main.js": "/Seguros/static/js/main.ae2a4f65.chunk.js",
-    "main.js.map": "/Seguros/static/js/main.ae2a4f65.chunk.js.map",
+    "main.js": "/Seguros/static/js/main.15675160.chunk.js",
+    "main.js.map": "/Seguros/static/js/main.15675160.chunk.js.map",
     "runtime-main.js": "/Seguros/static/js/runtime-main.026edbd0.js",
     "runtime-main.js.map": "/Seguros/static/js/runtime-main.026edbd0.js.map",
     "static/js/2.6dbb9dab.chunk.js": "/Seguros/static/js/2.6dbb9dab.chunk.js",
     "static/js/2.6dbb9dab.chunk.js.map": "/Seguros/static/js/2.6dbb9dab.chunk.js.map",
     "index.html": "/Seguros/index.html",
-    "precache-manifest.9a34dbd3d5319c4af796a433e8212f8f.js": "/Seguros/precache-manifest.9a34dbd3d5319c4af796a433e8212f8f.js",
+    "precache-manifest.24e27a23692838852430563138bb2190.js": "/Seguros/precache-manifest.24e27a23692838852430563138bb2190.js",
     "service-worker.js": "/Seguros/service-worker.js",
     "static/css/main.2d9bad60.chunk.css.map": "/Seguros/static/css/main.2d9bad60.chunk.css.map",
     "static/js/2.6dbb9dab.chunk.js.LICENSE.txt": "/Seguros/static/js/2.6dbb9dab.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.026edbd0.js",
     "static/js/2.6dbb9dab.chunk.js",
     "static/css/main.2d9bad60.chunk.css",
-    "static/js/main.ae2a4f65.chunk.js"
+    "static/js/main.15675160.chunk.js"
   ]
 }
